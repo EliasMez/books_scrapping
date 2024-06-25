@@ -1,0 +1,4 @@
+.env
+memory.txt
+env_scrapy
+*/__pycache__
